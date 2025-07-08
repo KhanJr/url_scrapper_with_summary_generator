@@ -137,7 +137,7 @@ python3 -m streamlit run app.py
 For headless operation or automation:
 
 ```bash
-python module_extractor.py --urls https://www.pulsegen.io/about-us --depth 3 --model llama3.1
+python module_extractor.py --urls https://developers.facebook.com/docs/instagram-platform --depth 3 --model llama3.1
 ```
 
 ## 📊 Example Output
